@@ -1,0 +1,47 @@
+.jumbotron{
+    text-align: center;
+}
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+    text-align: center;
+  }
+  
+#content-wrap {
+    text-align: center;
+    padding-bottom: 2.5rem;    /* Footer height */
+  }
+  
+.card-deck{
+      width: 100%;
+      justify-content: center;
+      padding-top: 3%;
+  }
+
+form {
+    width: 100%;
+    margin-left: 25%;
+}
+
+table {
+    margin: auto;
+    width: 50%;
+    border-collapse: collapse;
+}
+  
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td{
+    background-color: #fbca2b;
+    padding: 10px;
+    text-align: left;
+}
+
+.carousel-item{
+    color: #fbca2b;
+}
+
+/*# sourceMappingURL=/style.493e6e98.css.map */
